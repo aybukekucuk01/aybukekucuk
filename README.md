@@ -37,5 +37,6 @@ Stack: Solidity · React · Hardhat
 
 ## Contact
 
-📧 aybukekucuk@gmail.com  
+📧 acavus466@gmail.com
+
 🔗[ linkedin.com/in/aybuke-kucuk](https://www.linkedin.com/in/ayb%C3%BCke-k%C3%BC%C3%A7%C3%BCk-a65aa8406/?skipRedirect=true)
